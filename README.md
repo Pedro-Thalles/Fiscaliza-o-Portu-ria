@@ -4,7 +4,7 @@ No terminal, deve-se passar os argumentos de entrada e saida. Ambos devem ser ar
 
 O arquivo de entrada deve seguir esse formato:
 
-10
+10/n
 QOZJ7913219 34.699.211/9365-11 13822
 FCCU4584578 50.503.434/5731-28 16022
 KTAJ0603546 20.500.522/6013-58 25279
